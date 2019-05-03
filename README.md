@@ -42,6 +42,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Date Complete
 [Machine Learning](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) | Stanford | 11 weeks | 5-7 hours/week | twice a month | Linear Algebra - Foundations to Frontiers | Not Started
 [Database Management Essentials](https://www.coursera.org/learn/database-management) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge | Not Started
 [Cryptography I ](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcrypto)| Stanford | 7 weeks | 5 hours/week | once a month | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data | Not Started
+[Deep Learning NanoDegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | Udacity | 16 weeks | 12 hours/week | once a month | Intermediate Python, Machine Learning(optional) | May 2019
 
 ## Unix
 
