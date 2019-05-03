@@ -18,8 +18,8 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Date Complete
 
 
 ## Systems
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
+Courses | School | Duration | Effort | Frequency | Prerequisites | Date Completed
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fbuild-a-computer) | Hebrew University of Jerusalem | 6 weeks | 5 hours/week | twice a month | basic programming knowledge | Not Started
 [Build a Modern Computer from First Principles: From Nand to Tetris II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnand2tetris2) | Hebrew University of Jerusalem | 6 weeks | 10-15 hours/week | once a month | Build a Modern Computer from First Principles: From Nand to Tetris | Not Started
 [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| Georgia Tech | 8 weeks | 5-8 hours/week | self-paced | Build a Modern Computer from First Principles: From Nand to Tetris II | Not Started
@@ -27,8 +27,8 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 ## Theory
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
+Courses | School | Duration | Effort | Frequency | Prerequisites | Date Completed
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Computer Science: Algorithms, Theory, and Machines](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-algorithms-theory-machines) | Princeton | 10 weeks | 2-5 hours/week | once a month | Calculus 1A (all), basic programming | Not Started
 [Algorithms, Part I](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1) | Princeton | 6 weeks | 6-12 hours/week | once a month | Computer Science: Algorithms, Theory, and Machines | Not Started
 [Algorithms, Part II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) | Princeton | 6 weeks | 6-12 hours/week | once a month | Algorithms, Part I | Not Started
@@ -36,8 +36,8 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 ## Applications
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
+Courses | School | Duration | Effort | Frequency | Prerequisites | Date Completed
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | UBCx | 6 weeks | 8-10 hours/week | self-paced | Java Programming: Build a Recommendation System | Not Started
 [Machine Learning](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) | Stanford | 11 weeks | 5-7 hours/week | twice a month | Linear Algebra - Foundations to Frontiers | Not Started
 [Database Management Essentials](https://www.coursera.org/learn/database-management) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge | Not Started
