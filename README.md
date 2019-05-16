@@ -5,7 +5,7 @@
 
 Courses | School | Duration | Effort | Prerequisites | Started | Done
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Programming Foundations with Python](https://classroom.udacity.com/courses/ud036) | Udacity | 3 weeks | 1-4 hours/week | always | none | 12/28/18 | ✓
+[Programming Foundations with Python](https://classroom.udacity.com/courses/ud036) | Udacity | 3 weeks | 1-4 hours/week | none | 11/22/18 | ✓
 [Java Programming: Solving Problems with Software](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming)| Duke | 4 weeks | 4-8 hours/week | none | 5/10/19
 [Java Programming: Arrays, Lists, and Structured Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-arrays-lists-data)| Duke | 4 weeks | 4-8 hours/week | Java Programming: Solving Problems with Software | 
 [Object Oriented Programming in Java](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fobject-oriented-java)| Duke | 6 weeks | 4-6 hours/week | Java Programming: Arrays, Lists, and Structured Data | 
@@ -44,7 +44,8 @@ Courses | School | Duration | Effort | Prerequisites | Started | Done
 [Database Management Essentials](https://www.coursera.org/learn/database-management) | CU | 7 weeks | 4-6 hours/week | basic programming & CS knowledge | 
 [Cryptography I ](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcrypto)| Stanford | 7 weeks | 5 hours/week | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data | 
 [Deep Learning NanoDegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | Udacity | 16 weeks | 12 hours/week | Intermediate Python, Machine Learning (optional) | 1/16/19 | 
-[Intro to Data Science](https://classroom.udacity.com/courses/ud359) | Udacity | 4 weeks | 4-8 hours/week 
+[Intro to Data Science](https://classroom.udacity.com/courses/ud359) | Udacity | 4 weeks | 4-8 hours/week | Programming Foundations with Python | 12/9/18 | ✓
+
 ## Unix
 
 Courses | School | Duration | Effort | Prerequisites | Started | Done
