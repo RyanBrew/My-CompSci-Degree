@@ -45,7 +45,7 @@ Courses | School | Duration | Effort | Prerequisites | Started | Done
 [Database Management Essentials](https://www.coursera.org/learn/database-management) | CU | 7 weeks | 4-6 hours/week | basic programming & CS knowledge | 
 [Cryptography I ](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcrypto)| Stanford | 7 weeks | 5 hours/week | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data | 
 [Cloud Development NanoDegree](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990) | Udacity | 16 weeks | 8-12 hours/weeks | Intermediate JavaScript 
-[Deep Learning NanoDegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | Udacity | 16 weeks | 12 hours/week | Intermediate Python, Machine Learning (optional) | 1/16/19 | 
+[Deep Learning NanoDegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | Udacity | 16 weeks | 12 hours/week | Intermediate Python, Machine Learning (optional) | 1/16/19 | ✓
 [Intro to Data Science](https://classroom.udacity.com/courses/ud359) | Udacity | 4 weeks | 4-8 hours/week | Programming Foundations with Python | 12/9/18 | ✓
 
 ## Unix
